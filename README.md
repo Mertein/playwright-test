@@ -2,7 +2,7 @@ Playwright Test Repo
 
 📌 Propósito
 
-El objetivo de este repositorio habilidades para desarrollar pruebas automatizadas en Playwright y como esto puede ayudar a detectar errores en una aplicación. En este caso, una prueba está diseñada para pasar correctamente, mientras que otras dos fallan a propósito para resaltar un bug en la aplicación.
+El objetivo de este repositorio es mostrar habilidades para desarrollar pruebas automatizadas en Playwright y como esto puede ayudar a detectar errores en una aplicación. En este caso, una prueba está diseñada para pasar correctamente, mientras que otras dos fallan a propósito para resaltar un bug en la aplicación.
 
 🚀 Instalación y ejecución
 
